@@ -1,4 +1,4 @@
-# r-Monster_
+# reddit.com/r/Monster_
 Monster CSS.
 
 Added banner image.
