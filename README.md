@@ -1,5 +1,5 @@
 # reddit.com/r/Monster_
-Monster CSS.
+## Monster CSS.
 
 Added banner image.
 Changed background and text color.
@@ -14,4 +14,5 @@ Added tagline changes.
 Changed Button colors.
 
 
-![alt tag](blob:https://drive.google.com/d20435cb-da41-43ca-953e-9813c23e2cd1)
+![untitled](https://cloud.githubusercontent.com/assets/12927853/16254453/1796fd76-380e-11e6-92f6-1bff63422531.png)
+
