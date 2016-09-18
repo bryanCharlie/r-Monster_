@@ -10,8 +10,9 @@ Added alien hover over img.
 Adjusted header height.
 Changed border color.
 Allowed default setting in certain cases.
-Added tagline changes.
-Changed Button colors.
+Added tag
+
+and Other minor modifications
 
 
 ![untitled](https://cloud.githubusercontent.com/assets/12927853/16254453/1796fd76-380e-11e6-92f6-1bff63422531.png)
